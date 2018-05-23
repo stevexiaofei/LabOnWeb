@@ -10,7 +10,6 @@ __pycache__/
 env/
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 lib/
@@ -54,7 +53,6 @@ docs/_build/
 target/
 
 # user define
-__pycache__/
 /flasky/
 data.sqlite
 !static/
