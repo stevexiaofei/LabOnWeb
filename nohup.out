@@ -1,0 +1,157 @@
+ * Running on http://202.121.181.3:5000/ (Press CTRL+C to quit)
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/images/main.jpg HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/docs/assets/images/demo/logo-mask.png HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:29] "[37mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:30] "[37mGET /static/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:30] "[37mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:31] "[37mGET /static/dist/favicon.ico HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:40] "[37mGET /controll HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:40] "[37mGET /static/images/icons/login_icon.png HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:40] "[37mGET /static/dist/fonts/lato/lato-light.woff HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:40] "[37mGET /static/dist/images/login/imac-2x.png HTTP/1.1[0m" 200 -
+10.164.28.25 - - [19/May/2018 08:51:46] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/images/main.jpg HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:27] "[37mGET /static/docs/assets/images/demo/logo-mask.png HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:29] "[37mGET /static/dist/favicon.ico HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:45] "[37mGET /mission HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:47] "[37mGET /controll HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:47] "[37mGET /static/images/icons/login_icon.png HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:47] "[37mGET /static/dist/fonts/lato/lato-light.woff HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:47] "[37mGET /static/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:03:47] "[37mGET /static/dist/images/login/imac.png HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:04:03] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:04:37] "[37mGET /login HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:05:06] "[37mPOST /login HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:05:06] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:05:21] "[37mGET /controll HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:05:23] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:05:41] "[37mPOST /video_feed HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:06:07] "[37mPOST /video_feed HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:06:21] "[37mPOST /video_feed HTTP/1.1[0m" 200 -
+10.164.137.240 - - [19/May/2018 09:07:28] "[37mGET / HTTP/1.1[0m" 200 -
+Traceback (most recent call last):
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 599, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 657, in __init__
+    self.finish()
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 716, in finish
+    self.wfile.close()
+  File "/usr/bin/anaconda2/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/usr/bin/anaconda2/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/images/main.jpg HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:23] "[37mGET /static/docs/assets/images/demo/logo-mask.png HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:24] "[37mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:24] "[37mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:26] "[37mGET /static/dist/favicon.ico HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:44] "[37mGET /controll HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:44] "[37mGET /static/images/icons/login_icon.png HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:44] "[37mGET /static/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:44] "[37mGET /static/dist/fonts/lato/lato-light.woff HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:17:44] "[37mGET /static/dist/images/login/imac.png HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:09] "[37mPOST /login HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:09] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:13] "[37mGET /controll HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:15] "[37mGET /video_feed HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:39] "[37mPOST /video_feed HTTP/1.1[0m" 200 -
+10.164.138.125 - - [19/May/2018 10:18:55] "[37mPOST /video_feed HTTP/1.1[0m" 200 -
+101.90.255.130 - - [19/May/2018 10:28:22] "[37mGET /controll HTTP/1.1[0m" 200 -
+101.90.255.130 - - [19/May/2018 10:28:47] "[37mGET /controll HTTP/1.1[0m" 200 -
+101.90.255.130 - - [19/May/2018 11:03:33] "[37mGET / HTTP/1.1[0m" 200 -
+101.90.255.130 - - [19/May/2018 11:03:49] "[37mGET /controll HTTP/1.1[0m" 200 -
+101.90.255.130 - - [19/May/2018 11:04:02] "[37mGET /controll HTTP/1.1[0m" 200 -
+Traceback (most recent call last):
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 599, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 657, in __init__
+    self.finish()
+  File "/usr/bin/anaconda2/lib/python2.7/SocketServer.py", line 716, in finish
+    self.wfile.close()
+  File "/usr/bin/anaconda2/lib/python2.7/socket.py", line 283, in close
+    self.flush()
+  File "/usr/bin/anaconda2/lib/python2.7/socket.py", line 307, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+error: [Errno 32] Broken pipe
+172.104.246.157 - - [19/May/2018 15:50:13] "[37mGET / HTTP/1.0[0m" 200 -
+188.138.125.155 - - [19/May/2018 17:33:26] code 400, message Bad request syntax ('h2\x002\x00h\xc9\x05\x086\x01\x00\x02r\x00\x00\x01\x00\x82\x16')
+188.138.125.155 - - [19/May/2018 17:33:26] "[1m[31mh2 2 h…6 r   Ç[0m" 400 -
+219.228.126.144 - - [19/May/2018 20:56:43] "[37mGET / HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/images/main.jpg HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/docs/assets/images/demo/logo-mask.png HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:44] "[36mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:49] "[37mGET / HTTP/1.1[0m" 200 -
+No handlers could be found for logger "sqlalchemy.pool.NullPool"
+219.228.126.144 - - [19/May/2018 20:56:52] "[37mGET /mission HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 20:56:54] "[37mGET / HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 20:56:59] "[37mGET /controll HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 20:56:59] "[36mGET /static/images/icons/login_icon.png HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:59] "[36mGET /static/dist/images/login/imac.png HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:59] "[36mGET /static/dist/fonts/lato/lato-light.woff HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 20:56:59] "[36mGET /static/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff HTTP/1.1[0m" 304 -
+219.228.126.144 - - [19/May/2018 21:21:13] "[37mGET /mission HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 21:21:26] "[37mGET / HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 21:21:34] "[37mGET /mission HTTP/1.1[0m" 200 -
+219.228.126.144 - - [19/May/2018 21:21:37] "[37mGET /about HTTP/1.1[0m" 200 -
+192.241.200.115 - - [19/May/2018 22:22:14] "[37mGET / HTTP/1.1[0m" 200 -
+123.59.54.62 - - [20/May/2018 11:20:06] code 400, message Bad request syntax ('\x16\x03\x01\x01"\x01\x00\x01\x1e\x03\x03\x96v=G\x8f\xeb.\x13\xcb/\xa6@\xc9\xe6\x14\xd3s\xae\xa0\xf7iI\xdd3\x8b"\xb5kc\x83\xb8\xfc\x00\x00\x88\xc00\xc0,\xc0(\xc0$\xc0\x14\xc0')
+123.59.54.62 - - [20/May/2018 11:20:06] "[1m[31m" ñv=GèÎ.À/¶@…Ê”sÆ†˜iI›3ã"µkcÉ∏¸  à¿0¿,¿(¿$¿¿[0m" 400 -
+123.59.54.62 - - [20/May/2018 11:20:09] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:01] "[37mGET / HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/images/main.jpg HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 200 -
+10.164.33.13 - - [20/May/2018 12:07:02] "[37mGET /static/docs/assets/images/demo/logo-mask.png HTTP/1.1[0m" 200 -
+106.120.161.66 - - [20/May/2018 12:37:22] "[37mGET / HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET / HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET /static/dist/css/vendor/bootstrap.min.css HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET /static/dist/css/flat-ui.css HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET /static/docs/assets/css/demo.css HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET /static/scripts/flat-ui.js HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:43] "[37mGET /static/docs/assets/js/application.js HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:44] "[37mGET /static/dist/fonts/lato/lato-bold.woff HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:44] "[37mGET /static/dist/fonts/lato/lato-black.woff HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:44] "[37mGET /static/dist/fonts/lato/lato-regular.woff HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:44] "[37mGET /static/dist/fonts/lato/lato-light.woff HTTP/1.1[0m" 200 -
+220.181.132.198 - - [20/May/2018 12:37:44] "[37mGET /static/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff HTTP/1.1[0m" 200 -
+185.92.73.88 - - [20/May/2018 17:05:45] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+185.92.73.88 - - [20/May/2018 17:05:45] "[1m[31m  *%‡     Cookie: mstshash=Test[0m" 400 -
+185.92.73.88 - - [20/May/2018 17:05:46] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+185.92.73.88 - - [20/May/2018 17:05:46] "[1m[31m  *%‡     Cookie: mstshash=Test[0m" 400 -
+101.93.176.187 - - [21/May/2018 11:53:47] "[33mGET /webman/login.cgi?username=admin&passwd=123456 HTTP/1.1[0m" 404 -

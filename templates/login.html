@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block user_defined %}
+	<div class="login">
+        <div class="login-screen">
+          <div class="login-icon">
+            <img src="static\images\icons\login_icon.png" alt="Welcome to Mail App" />
+            <h4>Welcome to <small>Microfluidics Lab</small></h4>
+          </div>
+
+          <div class="login-form">
+            <div class="form-group">
+              <input type="text" class="form-control login-field" name="username" id="username" value="" placeholder="Enter your name" id="login-name" />
+              <label class="login-field-icon fui-user" for="login-name"></label>
+            </div>
+
+            <div class="form-group">
+              <input type="password" class="form-control login-field" name="password" id="password" value="" placeholder="Password" id="login-pass" />
+              <label class="login-field-icon fui-lock" for="login-pass"></label>
+            </div>
+			<button type="button" class="btn btn-primary btn-lg btn-block" onclick="login()">Login</button>
+            <!--a class="btn btn-primary btn-lg btn-block" href="#">Log in</a-->
+            <a class="login-link" href="#">Lost your password?</a>
+          </div>
+        </div>
+      </div>
+{% endblock %}
+{% block user_script %}
+	<script>
+        var login = function () {
+            var username = $('#username').val();
+            var password = $('#password').val();
+            if(username == '') {
+                alert('Username is empty!');
+                return;
+            }
+            if(password == '') {
+                alert('Password is empty');
+                return;
+            }
+            $.post('/login', {
+                username: username,
+                password: password
+            }, function(r) {
+                var obj = JSON.parse(r);
+                if(obj.success == 'true') {
+                    window.location = '/';
+                } else {
+                    alert(obj.msg);
+                }
+            });
+        }
+    </script>
+{% endblock %}
