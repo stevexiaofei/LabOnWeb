@@ -55,4 +55,4 @@ target/
 
 # user define
 __pycache__/
-flask/
+flasky/
