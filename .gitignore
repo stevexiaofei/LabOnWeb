@@ -56,3 +56,4 @@ target/
 # user define
 __pycache__/
 /flasky/
+*.sqlite
